@@ -1,3 +1,3 @@
 # ML Web App
 
-Building a Machine Learning Web_Application using scikit-learn and streamlit.
+Building a Machine Learning Web App using scikit-learn and streamlit.
